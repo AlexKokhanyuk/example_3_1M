@@ -1,0 +1,4 @@
+2016-05-22 13:16:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Ð¢Ð°Ð±Ð»Ð¸Ñ†Ð° "USER" Ð½Ðµ Ð½Ð°Ð¹Ð´ÐµÐ½Ð°
+Table "USER" not found; SQL statement:
+select * from user; [42102-191]
